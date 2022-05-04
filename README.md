@@ -1,6 +1,6 @@
 # J296 Final: A data story about migrant deaths at the U.S.-Mexico border
 
-## The Story
+## PART ONE - The Story
 
 ### The fatal journey: migrant deaths continue to rise at the U.S.-Mexico border 
 By Mengyuan Dong
@@ -62,7 +62,7 @@ The latest incident on the record in 2022 was a migrant originally from Caribbea
 
 
 
-## Dataset Analysis
+## PART TWO - Dataset Analysis
 ### Data source 1:
 * International Organization for Migration(IOM) https://missingmigrants.iom.int/downloads
 
@@ -134,4 +134,5 @@ The latest incident on the record in 2022 was a migrant originally from Caribbea
 
 * **Mike Kreyche**, mapping coordinator at Humane Borders (talked to)
 * **Katy Murdza**, advocacy manager at Immigration Justice Campaign (reached out)
+* **Eddie**(ECSouthTexasHumanRights@gmail.com), The South Texas Human Rights Center (reached out)
 
