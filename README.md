@@ -29,7 +29,7 @@ Mike Kreyche, the mapping coordinator at Humane Borders, said the increase in de
 
 For the past two years, the federal government has turned away migrants at the U.S.-Mexico border, including those seeking asylum, using a public emergency health order known as Title 42. The U.S. Border Patrol reported more than 1.6 million encounters with migrants along the U.S.-Mexico border in the 2021 fiscal year, more than quadruple the number of the prior fiscal year and the highest annual total on record.
 
-<img src="/cause of death.png" alt="" width="60%">
+<img src="/cause of death.png" alt="" width="70%">
 (https://datawrapper.dwcdn.net/eIcxu/1/)<br><br>
 
 Humane Borders has long recognized the significance of saving people from death by exposure and dehydration. Since 2000, it has maintained a system of water stations in the Sonoran Desert used by migrants. Arizona’s vast public lands in the desert make the conditions along the migration routes harsher. 
@@ -42,7 +42,7 @@ According to Regrid, a provider of nationwide land parcel data, about 57 percent
 
 Arizona also has by far the fewest privately-owned parcels by acreage along the border - just 3.7%, as compared to the overall border-wide statistic of 36.4%. 
 
-<img src="/arizona lands.png" alt="" width="60%">
+<img src="/arizona lands.png" alt="" width="80%">
 (https://datawrapper.dwcdn.net/cFxWc/1/)<br><br>
 
 The growing number of migrant deaths is already striking, but it only reflects a small fraction of the brutal reality at the border.
@@ -130,5 +130,8 @@ The latest incident on the record in 2022 was a migrant originally from Caribbea
 
 #### Findings: The maximun age of dead migrants was 99; the minimum age was 0, and that referred to three incidents of nonviable fetus (so heartbreaking). The average age was around 31.  
 
+### Sources
 
+* **Mike Kreyche**, mapping coordinator at Humane Borders (talked to)
+* **Katy Murdza**, advocacy manager at Immigration Justice Campaign (reached out)
 
